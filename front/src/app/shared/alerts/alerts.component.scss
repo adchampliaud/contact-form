@@ -1,0 +1,43 @@
+::ng-deep .snack-bar-success{
+  background-color: #28a745;
+  color: white;
+  min-height: 50px;
+}
+
+::ng-deep .snack-bar-info{
+  background-color: #17a2b8;
+  color: white;
+  min-height: 50px;
+}
+
+::ng-deep .snack-bar-warning{
+  background-color: #FFAB40;
+  color: white;
+  min-height: 50px;
+}
+
+::ng-deep .snack-bar-error{
+  background-color: #FF5252;
+  color: white;
+  min-height: 50px;
+}
+
+.alertLogo{
+  margin-right: 5px;
+  line-height: 25px;
+  float: left;
+  display: inline-block;
+}
+
+.alertTitle{
+  margin-right: 5px;
+  line-height: 25px;
+  float: left;
+  display: inline-block;
+}
+
+.alertContent{
+  line-height: 25px;
+  float: left;
+  display: inline-block;
+}
